@@ -1,4 +1,4 @@
-date,product,price		
+date,     product,price		
 1/17/2026,iphone,300000		
 1/17/2026,iphone,200000	
 1/17/2026,samsung,40000
@@ -15,6 +15,7 @@ date,product,price
 1/19/2026,oppo,   10000		
 1/19/2026,iphone,300000		
 1/19/2026,iphone,200000	
+
 
 
 
